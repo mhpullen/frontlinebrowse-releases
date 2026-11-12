@@ -3,6 +3,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>FrontlineBrowse 1.1.1</title>
+      <pubDate>Thu, 12 Nov 2026 18:54:52 +0000</pubDate>
+      <description>FrontlineBrowse 1.1.1 simplifies Settings with a compact list, smaller headings, and a sidebar that becomes a menu in narrow windows. Removes promotional dashboard copy and extra About panels. Includes the signed GitHub update channel and FrontlineBrowse Publisher. Apple Developer ID signing and notarization remain pending.</description>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mhpullen/frontlinebrowse-releases/releases/download/v160.0.8155.101/FrontlineBrowse-160.0.8155.101-arm64.dmg" length="234521239" type="application/x-apple-diskimage" sparkle:version="160.0.8155.101" sparkle:shortVersionString="1.1.1" sparkle:edSignature="E3Fz2AImaogQxruvP//WtDiD7/sL9hrYZEg7P1IEVp010iwsamdIcu4Vn8GNZHUKUHzrKB9hyiYc43vhpMaFCw=="></enclosure>
+    </item>
+    <item>
       <title>FrontlineBrowse 1.1</title>
       <pubDate>Thu, 12 Nov 2026 18:39:28 +0000</pubDate>
       <description>FrontlineBrowse 1.1 introduces the Frontline Control Center, a redesigned Settings experience, and signed automatic updates. Includes the native Frontline Workspace menu, frontline:// internal addresses, and AAC/H.264 playback. Fixes theme caching so the app bundle remains unchanged while running. Apple Developer ID signing and notarization remain pending.</description>
@@ -15,6 +22,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <language>en</language>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: K51Epg7Gtiy+drAUBDh1GN+lV7Pt9gL8Z5yM0gLo0tZM1nRb0G6VXNhTOm9VxZ1h4OSPopZ0f7Hqd1CMeivEDQ==
-length: 1595
+edSignature: h0jhMa1qOgJQ8vSPbjMJYp9XHkG0IqjThvosSo7mCm6ZfUFFJCdlNtln4g4RuvGl0cuOXm/5wBSfgdUuH8GFAw==
+length: 2548
 -->
