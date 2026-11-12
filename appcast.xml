@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>FrontlineBrowse Updates</title><link>https://myfrontline.church/</link><description>Signed FrontlineBrowse releases for Apple Silicon Macs.</description><language>en</language></channel></rss><!-- sparkle-signatures:
-edSignature: MZSa+z7KlmU8vvj7PV4Cbcj9zTNtJ+DnFe5lO/MTJ40efaTpIK8jRJcBiEPoj88WW0AKvN5nNePE6cOaIhvUDg==
-length: 586
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>FrontlineBrowse 1.1</title>
+      <pubDate>Thu, 12 Nov 2026 18:39:28 +0000</pubDate>
+      <description>FrontlineBrowse 1.1 introduces the Frontline Control Center, a redesigned Settings experience, and signed automatic updates. Includes the native Frontline Workspace menu, frontline:// internal addresses, and AAC/H.264 playback. Fixes theme caching so the app bundle remains unchanged while running. Apple Developer ID signing and notarization remain pending.</description>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mhpullen/frontlinebrowse-releases/releases/download/v160.0.8155.100/FrontlineBrowse-160.0.8155.100-arm64.dmg" length="234522625" type="application/x-apple-diskimage" sparkle:version="160.0.8155.100" sparkle:shortVersionString="1.1" sparkle:edSignature="X8RpouXjSokRXWBR9JynAAXBvvB05V/64WUX8vq6KOzv6yexFGdZYHK+XfsVOKwY90n+kTKSojwSDhg1TRgDCg=="></enclosure>
+    </item>
+    <title>FrontlineBrowse Updates</title>
+    <link>https://myfrontline.church/</link>
+    <description>Signed FrontlineBrowse releases for Apple Silicon Macs.</description>
+    <language>en</language>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: K51Epg7Gtiy+drAUBDh1GN+lV7Pt9gL8Z5yM0gLo0tZM1nRb0G6VXNhTOm9VxZ1h4OSPopZ0f7Hqd1CMeivEDQ==
+length: 1595
 -->
